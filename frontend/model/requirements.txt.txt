@@ -1,0 +1,5 @@
+numpy
+opencv-python
+joblib
+flask
+flask_cors
